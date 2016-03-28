@@ -1,0 +1,14 @@
+layout_spectrum: 0.1594935
+color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 0.7548617
+  brandColors:
+    - '#FFFFFF'
+    - '#3A3A48'
+    - '#9D9DA3'
+    - '#1FBAD6'
+    - '#6C6C76'
+  rhythmicContrast: 0.7680333
+typography_spectrum: 0.103652
+name: UberBuzz
