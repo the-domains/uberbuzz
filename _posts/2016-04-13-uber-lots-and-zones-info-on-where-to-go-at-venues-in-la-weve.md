@@ -1,0 +1,20 @@
+---
+description: 'Uber Lots & Zones Info on where to go at venues in LA. We’ve been working with large event spaces to make pickups and drop-offs as smooth as possible. When you '
+author: []
+datePublished: '2016-04-13T10:42:24.859Z'
+publisher:
+  domain: losangeles.ubermovement.com
+  name: losangeles.ubermovement.com
+dateModified: '2016-03-23T04:56:21.147Z'
+title: ''
+sourcePath: _posts/2016-04-13-uber-lots-and-zones-info-on-where-to-go-at-venues-in-la-weve.md
+published: true
+inFeed: true
+hasPage: true
+inNav: false
+url: uber-lots-and-zones-info-on-where-to-go-at-venues-in-la-weve/index.html
+_context: 'http://schema.org'
+_type: Article
+
+---
+Uber Lots & Zones Info on where to go at venues in LA. We've been working with large event spaces to make pickups and drop-offs as smooth as possible. When you pick up and drop off at these locations, we recommend you double check to make sure you have the correct rider by confirming their name. Drive with caution at large events, and please be mindful of local traffic laws.   ROSE BOWL STADIUM Wait at the lot and stay connected with free WiFi.  You can expect receive pickup requests when the show ends. LOCATION OF LOT: The Uber zone is located at lot 8A north of the bowl area. RECOMMENDED ROUTE: The fastest route into the lot is to take the 215 W. to Berkshire Avenue, entering the bowl area at the intersection of Linda Vista Ave. and Lida St.   THE FORUM Wait at the lot before the show ends to receive pickup requests. LOT LOCATION: The lot is located just south of the venue. RECOMMENDED ROUTE: Please note that Pincay Dr. is closed to vehicle traffic after shows. Continue down Prairie Ave. past Pincay Dr. The entrance to the lot is on the left hand side of Prairie Ave., as you approach E La Palma Dr.   SANTA ANITA RACETRACK Wait at the lot before the race ends to receive pickup requests. LOT LOCATION:  The lot is located in front of the Santa Anita Racetrack exit. RECOMMENDED ROUTE: Take the 210 Freeway to N. Baldwin Ave. Proceed on Colorado Pl. until you see the entrance at the intersection of Colorado Pl. and W. Huntington Dr.   THE WILTERN THEATRE Wait for pick up requests a few blocks away from the Wiltern and keep traffic flowing at the zone . Wilshire is a busy street, so we recommend calling or texting your rider to confirm they're ready to be picked up at the zone. ZONE LOCATION: The pickup zone in front of the theater on Wilshire Blvd. PLEASE NOTE: The zone at The Wiltern can be used for pick ups only.   THE GETTY CENTER Waiting for pick up requests at the Getty Center, on Sepulveda Blvd. or the surrounding neighborhoods is prohibited. Waiting in these areas can result in a fine. We recommend calling or texting your rider to confirm they're ready to be picked up at the zone. ZONE LOCATIONS: Primary Zone: Approximately 100 feet past the Main Parking entrance on Getty Center Drive Alternate Zone: Main Parking, P1 Level RECOMMENDED ROUTE: After the Getty Center Drive roundabout, continue southbound. Let the Security Officer posted just beyond the roundabout know that you have a pick up. The Security Officer will direct you either to the primary zone or the alternate zone.  If directed to the primary zone, turn left into the vehicle turn-around area just before the white and red lift-gates. If directed to the alternate zone, the Security Officer posted in the garage will advise you on where to pick up your riders. PLEASE NOTE: Many GPS unit do not correctly guide drivers to the Getty Center main entrance. The main entrance is located at the intersection of Sepulveda Blvd and Getty Center Drive.   SANTA MONICA COLLEGE Santa Monica College Spring Semester starts Tuesday 2/16\. Expect high demand from students. Pico is a busy street, so we recommend calling or texting your rider to confirm they're ready to be picked up at the zone. ZONE LOCATION: The dedicated pick up / drop off area is on Pico heading east, past 18th street and the bus station. PLEASE NOTE: Please do not pick up or drop off on Pearl Street as riders will no longer be able to request on this road and for safety reasons.
